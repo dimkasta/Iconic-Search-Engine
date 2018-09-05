@@ -1,8 +1,9 @@
 {
   "name": "iconic/search-engine",
-  "description": "Simple Search Service that runs on plain comodity infrastructure",
-  "minimum-stability": "dev",
+  "description": "Simple Search Service that runs on plain commodity infrastructure",
+  "minimum-stability": "stable",
   "license": "MIT",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "Dimitris Kastaniotis",
