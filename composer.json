@@ -1,0 +1,20 @@
+{
+  "name": "iconic/search-engine",
+  "description": "Simple Search Service that runs on plain comodity infrastructure",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dimitris Kastaniotis",
+      "email": "d.kastaniotis@iconic.gr"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Iconic.SearchEngine\\": "src/"
+    }
+  }
+}
