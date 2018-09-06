@@ -1,7 +1,7 @@
 {
   "name": "iconic/search-engine",
-  "description": "Simple Search Service that runs on plain comodity infrastructure",
-  "minimum-stability": "dev",
+  "description": "Simple Search Service that runs on plain commodity infrastructure",
+  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": ">=7.0.1"
+
   },
   "autoload": {
     "psr-4": {
